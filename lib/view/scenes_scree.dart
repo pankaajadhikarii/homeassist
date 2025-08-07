@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:smarthomeassist/screen_widgets/auth_widget.dart';
-import 'package:smarthomeassist/screen_widgets/homescreen_widgets.dart';
+import 'package:smarthomeassist/widget/auth_widget.dart';
+import 'package:smarthomeassist/widget/homescreen_widgets.dart';
 
 class ScenesScreen extends StatelessWidget {
   const ScenesScreen({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:smarthomeassist/screen_widgets/gridview_home.dart';
-import 'package:smarthomeassist/screen_widgets/homescreen_widgets.dart';
-import 'package:smarthomeassist/view_screen/devices_screen.dart';
-import 'package:smarthomeassist/view_screen/scenes_scree.dart';
+import 'package:smarthomeassist/widget/gridview_home.dart';
+import 'package:smarthomeassist/widget/homescreen_widgets.dart';
+import 'package:smarthomeassist/view/devices_screen.dart';
+import 'package:smarthomeassist/view/scenes_scree.dart';
 
 class Homescreen extends StatefulWidget {
   Homescreen({super.key});
