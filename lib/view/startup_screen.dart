@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:smarthomeassist/screen_widgets/blurred_btn.dart';
-import 'package:smarthomeassist/view_screen/signin_screen.dart';
+import 'package:smarthomeassist/widget/blurred_btn.dart';
+import 'package:smarthomeassist/view/signin_screen.dart';
 
 class StartupScreen extends StatelessWidget {
   const StartupScreen({super.key});

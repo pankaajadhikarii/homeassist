@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:smarthomeassist/screen_widgets/auth_widget.dart';
-import 'package:smarthomeassist/view_screen/home_screen.dart';
-import 'package:smarthomeassist/view_screen/signup_screen.dart';
+import 'package:smarthomeassist/widget/auth_widget.dart';
+import 'package:smarthomeassist/view/home_screen.dart';
+import 'package:smarthomeassist/view/signup_screen.dart';
 
 class SigninScreen extends StatelessWidget {
   const SigninScreen({super.key});
